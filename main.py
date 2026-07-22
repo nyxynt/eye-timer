@@ -6,6 +6,8 @@ import winsound
 
 timerduration = 20
 
+
+# While loop
 while True:
 
     time.sleep(timerduration)
@@ -43,3 +45,4 @@ while True:
         timeout = 5,
 
     )
+
