@@ -7,7 +7,7 @@ import winsound
 timerduration = 20
 
 
-# While loop
+# While loop asdasdasd
 while True:
 
     time.sleep(timerduration)
